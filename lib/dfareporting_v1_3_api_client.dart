@@ -11,3 +11,4 @@ export 'package:google_dfareporting_v1_3_api/src/client_base.dart' show APIReque
 part 'src/client/client.dart';
 part 'src/client/schemas.dart';
 part 'src/client/resources.dart';
+part 'src/client/utils.dart';
